@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#00FF00</item> <!-- Green -->
+        <item name="colorPrimaryVariant">#FFFFFF</item> <!-- White -->
+        <item name="colorOnPrimary">#000000</item> <!-- Text color on primary -->
+
+        <item name="colorSecondary">#FFFF00</item> <!-- Yellow -->
+        <item name="colorSecondaryVariant">#808080</item> <!-- Grey -->
+        <item name="colorOnSecondary">#000000</item> <!-- Text color on secondary -->
+
+        <!-- Customize status bar color -->
+        <item name="android:statusBarColor">#5A8D0D</item> <!-- Green shade status bar -->
+    </style>
+
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+</resources>

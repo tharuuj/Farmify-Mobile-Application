@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_message">Login to your \nAccount</string>
+    <string name="welcome1">Welcome</string>
+    <string name="welcome_message">Say Goodbye to Stale, Hello to Fresh! \nOrder directly from local farmers- \nYour journey to the freshest \nfruits and vegetables\nstarts here!</string>
+    <string name="delivery_message">Freshness at your fingertips! \nOnline orders, express delivery - \nYour essential fruits and veggies \nat your doorstep in just one day,\nacross the entire country</string>
+</resources>
